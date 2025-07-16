@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/wix-config.json",
+  "appId": "3e6ddc5d-4863-4361-8f11-4aef74dbde19",
+  "projectId": "top-shelf-discounter"
+}
