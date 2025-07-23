@@ -11,6 +11,8 @@ import {
 import '@wix/design-system/styles.global.css';
 import * as Icons from '@wix/wix-ui-icons-common';
 import wixLogo from './wix_logo.svg';
+import { products } from "@wix/stores";
+
 
 const Index: FC = () => {
   return (
@@ -18,12 +20,12 @@ const Index: FC = () => {
       <Page>
         <Page.Header
           title="Dashboard Page"
-          subtitle="Add management capabilities to your app."
+          subtitle="I am not used in this exercise :("
           actionsBar={
             <Button
               onClick={() => {
                 dashboard.showToast({
-                  message: 'Your first toast message!',
+                  message: 'My second toast message!',
                 });
               }}
               prefixIcon={<Icons.GetStarted />}

@@ -1,0 +1,6 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/dashboard-plugin.json",
+  "id": "64310218-cdd0-467e-bff7-06cd251d4094",
+  "title": "Top Shelf Discounter",
+  "extends": "3ca518a6-8ae7-45aa-8cb9-afb3da945081"
+}
